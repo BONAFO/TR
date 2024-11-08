@@ -1,0 +1,1 @@
+{ "ignore": ["public/db/*"], "watch": ["public/index.js", "public/restarter.js"], "ext": "js,jsx" }
